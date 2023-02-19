@@ -1,10 +1,11 @@
-## Steps to follow
+## Steps to follow For Firebase Cli
 
 - Open Terminal
 - Type - firebase login (if already login Type - firebase logout)
 - flutterfire configure
 - choose your firebase project (Note: if no project showing first create project from firebase)
-
+## Github Guide
+- In case if we pushed repo to another account just type this cmd in terminal (git remote remove origin) then re-initialize project again.
 
 ## Authors
 
