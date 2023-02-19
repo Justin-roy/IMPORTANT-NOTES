@@ -1,4 +1,4 @@
-## Steps to follow For Firebase Cli
+## Steps For Firebase Cli Guide
 
 - Open Terminal
 - Type - firebase login (if already login Type - firebase logout)
