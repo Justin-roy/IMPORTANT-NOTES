@@ -6,6 +6,9 @@
 - choose your firebase project (Note: if no project showing first create project from firebase)
 ## Github Guide
 - In case if we pushed repo to another account just type this cmd in terminal (git remote remove origin) then re-initialize project again.
+## Vs Code CMD for gettting gradle key (like sha1 or sha2)
+- cd android
+- .\gradlew signingReport
 
 ## Authors
 
