@@ -4,7 +4,7 @@
 - Type - firebase login (if already login Type - firebase logout)
 - Type - dart pub global activate flutterfire_cli
 - Type - flutterfire configure
-- choose your firebase project (Note: if no project showing first create project from firebase) and hit enter.
+- select your firebase project (Note: if no project showing first create project from firebase) and hit enter.
 ## Github Guide
 - In case if we pushed repo to another account just type this cmd in terminal (git remote remove origin) then re-initialize project again.
 ## Vs Code CMD for gettting gradle key (like sha1 or sha2)
