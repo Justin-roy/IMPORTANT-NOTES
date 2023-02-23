@@ -11,6 +11,10 @@
 - cd android
 - .\gradlew signingReport
 
+## Steps For Publish Your Flutter Package
+- dart pub publish --dry-run 
+- dart pub publis (It will provide u link tap into verify the wait few min u will get email for package publish on pub.dev)
+
 ## Authors
 
 - [@Justin Roy](https://www.linkedin.com/in/justin-roy-4817551ba/)
